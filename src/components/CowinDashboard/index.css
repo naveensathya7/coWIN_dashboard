@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.cowin-bg {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #161625;
+  height: 110%;
+  overflow: auto;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.logo-image {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+.main-heading {
+  color: #2cc6c6;
+}
+.loader {
+  text-align: center;
+}
+.failure-image {
+  width: 60vw;
+  height: 60vh;
+  align-self: center;
+}
+.failure-bg {
+  display: flex;
+  flex-direction: column;
+}
+.failure-desc {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  align-self: center;
+}
+.failure-heading {
+  color: #6c757d;
+}
